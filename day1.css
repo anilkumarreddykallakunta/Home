@@ -1,0 +1,30 @@
+.submit {
+  padding: 6px;
+  width: 170px;
+  background-color: rgb(174, 135, 222);
+  color: white;
+  border-radius: px;
+  border: 0px;
+}
+* {
+  margin: 7px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.login-container {
+  padding: 5px;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+}
+.login-card {
+  background-color: rgba(207, 223, 222, 0.064);
+  border-radius: 20px;
+  padding: 50px;
+  width: 100%;
+  box-shadow: 21px -11px 143px 6px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 21px -11px 143px 6px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 21px -11px 143px 6px rgba(0, 0, 0, 0.75);
+  max-width: 400px;
+  height: 350px;
+}
