@@ -1,6 +1,6 @@
 let firstName = "Anil" //String
 
-let age = 22; // Number
+let age = 21 // Number
 
 let isPossible = true // Boolean
 
